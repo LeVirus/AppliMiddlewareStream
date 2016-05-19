@@ -17,7 +17,7 @@ class MonitorI extends biblAudio._MonitorDisp {
 		}
 }
 
-public class Client extends HttpServlet{
+public class ClientJavaGlass extends HttpServlet{
 
 	String action, music, nomArtiste;
 	String requestt = null;
